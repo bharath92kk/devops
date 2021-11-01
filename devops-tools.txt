@@ -1,3 +1,4 @@
+################ DEVOPS TOOLS ##################
 git
 maven 
 jenkins
@@ -7,6 +8,11 @@ docker
 kubernetes
 terraform
 aws
+ec2
+s3
+vpc
+IAM
+etc.....
 shell
 yaml
 xml etc.....
